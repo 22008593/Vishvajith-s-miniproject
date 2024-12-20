@@ -1,4 +1,4 @@
-## REVOLUTIONIZING HEART DISEASE DETECTION USING MACHINE LEARNING
+## Machine Learning Algorithm Benchmarking for Cardiovascular Risk Prediction
 
  
 This project aims to leverage machine learning techniques, that implements Diverse machine learning algorithms to determine the best accuracy model to develop a model for early heart disease detection. By analyzing clinical and demographic data, the model can assess individual risk, contributing to improved preventive healthcare and timely interventions.
